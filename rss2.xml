@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8">
+<rss version="2.0">
+  <channel>
+    <title>viz3.github.io</title>
+    <link>http://viz3.github.io/</link>
+    <description>viz.github.io</description>
+    <language>ja</language>
+    <item>
+      <title>7e088928-4c73-4c86-a239-477334460c11</title>
+      <description>
+        <![CDATA[
+            25686bd2-5c43-48dc-9bd6-91e33559c976
+          ]]>
+      </description>
+      <!-- ruby -e 'puts Time.new.strftime("%a, %d %b %Y %H:%M:%S %z")' -->
+      <pubDate>Thu, 01 Jan 2015 23:57:03 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
